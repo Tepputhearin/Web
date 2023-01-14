@@ -1,0 +1,38 @@
+
+.welcomeScreen {
+    background-color: white;
+}
+
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.3rem;
+    font-weight: bold;
+    color: #E3F6FF;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 20px;
+    color: #E3F6FF;
+    font-weight: bold;
+    font-family: "Montserrat-Light";
+  }
+.container-fluid{
+    padding: 0% 5%;
+}
+.plus{
+    padding-top: 50px;
+    padding-left : 50px;
+}
+.head{
+    padding-top: 50px; 
+    padding-left: 30px;
+}
+.top{
+    padding-top : 50px;
+}
+.bott{
+    padding-bottom: 50px;
+}
